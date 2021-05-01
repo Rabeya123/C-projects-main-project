@@ -1,2 +1,2 @@
-# C-projects-main-project
-C-projects-main-mini project
+# c-projects
+Some C Projects
